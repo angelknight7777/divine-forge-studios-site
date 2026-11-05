@@ -116,3 +116,10 @@ footer{border-top:1px solid var(--line);background:#07090c;padding:60px 0 34px;c
 @media(max-width:640px){
   .secondary-grid{grid-template-columns:1fr}
 }
+
+.anvil-art{
+  display:block;
+  width:100%;
+  height:auto;
+  aspect-ratio:3/2;
+}
